@@ -6,4 +6,4 @@ matplotlib
 transformers
 numpy
 tokenizers
-google notebook
+notebook
