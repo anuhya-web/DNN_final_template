@@ -1,3 +1,4 @@
+
 # DNN_final_template
 
 README — Visual Storytelling with Spatial & Cross-Modal Attention
@@ -24,10 +25,15 @@ Attention: CNN encoders compress images into small latent vectors.
 ⚙️ Requirements
 
 •	Python 3.8+ versions
+
 •	PyTorch
+
 •	matplotlib
+
 •	numpy
+
 •	torchvision
+
 •	Transformers
 
 
@@ -44,8 +50,11 @@ Attention: CNN encoders compress images into small latent vectors.
 3️⃣ Enhanced Loss Strategy
 
 •	L1 Loss -----> preserves edges
+
 •	MSE Loss -----> stabilizes training
+
 •	Perceptual Loss ------> improves textures
+
 •	Edge Loss ------> sharpens contours 
 
 
@@ -57,6 +66,7 @@ Compatible with datasets containing sequences of images + captions (e.g. daniel3
 Dataset Requirements contains:
 
 “captions” -----> list of caption strings
+
 “frames” -----> list of PIL images
 
 
@@ -77,6 +87,7 @@ DNN_final_template/
 
  🤝 Contributing
 Community contributions are encouraged.
+
 Enhancements such as new attention designs, better fusion strategies, or training                improvements are welcome — feel free to open an issue and we’ll plan it together.
 
 
