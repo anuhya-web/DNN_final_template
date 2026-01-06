@@ -1,1 +1,9 @@
+#requirements used:
 
+pytorch
+torchvision
+matplotlib
+transformers
+numpy
+tokenizers
+google notebook
